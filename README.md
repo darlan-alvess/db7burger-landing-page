@@ -122,7 +122,7 @@ Possíveis evoluções do projeto:
 
 Acesse o projeto:
 
-🔗 [DB7Burger](COLE_AQUI_SEU_LINK_DO_GITHUB_PAGES)
+🔗 [DB7Burger](https://darlan-alvess.github.io/db7burger-landing-page/)
 
 ## Autor
 
